@@ -1,0 +1,16 @@
+Ping: 105  Packet Loss: 0  RSSI: -97  SNR: 4.0
+Ping: 104  Packet Loss: 0  RSSI: -98  SNR: 4.5
+Ping: 105  Packet Loss: 0  RSSI: -97  SNR: 4.5
+Ping: 104  Packet Loss: 0  RSSI: -98  SNR: 4.5
+Ping: 105  Packet Loss: 0  RSSI: -98  SNR: 4.5
+Ping: 104  Packet Loss: 0  RSSI: -98  SNR: 4.75
+Ping: 105  Packet Loss: 0  RSSI: -98  SNR: 4.25
+Ping: 104  Packet Loss: 0  RSSI: -98  SNR: 4.5
+Ping: 104  Packet Loss: 0  RSSI: -98  SNR: 5.0
+Ping: 104  Packet Loss: 0  RSSI: -98  SNR: 4.25
+Ping: 104  Packet Loss: 0  RSSI: -97  SNR: 4.5
+Ping: 104  Packet Loss: 0  RSSI: -98  SNR: 4.25
+Ping: 104  Packet Loss: 0  RSSI: -98  SNR: 4.75
+Ping: 105  Packet Loss: 0  RSSI: -98  SNR: 4.25
+Ping: 103  Packet Loss: 0  RSSI: -97  SNR: 4.25
+Ping: 105  Packet Loss: 0  RSSI: -98  SNR: 4.0
